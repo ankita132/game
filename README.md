@@ -1,1 +1,1 @@
-# game
+The code of this program has been written in C++.This a 3-round game which gets terminated after 3-rounds.This has been written in Codeblocks and I have used GCC Compiler to compile the program.Here I have attached some screenshots of the program.
